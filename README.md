@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<div align="center">
+<div align = "right">
   <a href="https://github.com/MateoMinghi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelhp&layout=compact&langs_count=7&theme=dark"/>
 </div>
