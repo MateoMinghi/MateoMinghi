@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+Hello there! I'm a dedicated computer science enthusiast currently immersed in the captivating world of algorithms and artificial intelligence. As a passionate developer, I am on an exciting journey of discovery and learning, fueled by my insatiable curiosity for the intricate workings of technology. My GitHub page is a reflection of my commitment to honing my skills and exploring the endless possibilities within the realm of coding. Join me as I navigate the ever-evolving landscape of computer science, where creativity meets logic, and innovation knows no bounds. Together, let's embark on a collaborative journey of coding adventures
+
 <!---
 **MateoMinghi/MateoMinghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+-->
 
 <div align = "right">
   <a href="https://github.com/MateoMinghi">
@@ -29,4 +33,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&color=brightgreen)
 <br>
--->
+
