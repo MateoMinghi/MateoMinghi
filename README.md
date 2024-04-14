@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm a dedicated computer science enthusiast currently immersed in the captivating world of algorithms and artificial intelligence. As a passionate developer, I am on an exciting journey of discovery and learning, fueled by my insatiable curiosity for the intricate workings of technology.
+I'm a dedicated computer science enthusiast currently immersed in the world of algorithms and artificial intelligence. As a passionate developer, I am on an exciting journey of discovery and learning, fueled by my curiosity for technology.
 
 🔭 I’m currently working on ...
 - ML with scikit-learn
