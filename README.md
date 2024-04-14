@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=blue)
-![](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&color=blue)
 <br>
 
