@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=blue)
-![](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?stylestyle=flat&logo=google-cloud&logoColor=white&color=blue)
+![](https://img.shields.io/badge/GoogleCloud-informational?tyle=flat&logo=google-cloud&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white&color=orange)
 <br>
 
